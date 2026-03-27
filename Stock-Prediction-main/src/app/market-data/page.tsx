@@ -135,7 +135,6 @@ export default function MarketDataPage() {
           <div className="p-5 border-b border-white/5 flex flex-col md:flex-row justify-between items-start md:items-center gap-4 bg-[#080E19]/80">
             <div className="flex gap-6 text-sm font-bold">
                <button className="text-white relative">NSE Equities <div className="absolute -bottom-[22px] left-0 w-full h-0.5 bg-[#00D4AA] rounded-t-full shadow-[0_0_8px_#00D4AA]"></div></button>
-               <button className="text-gray-500 hover:text-white transition-colors">F&O</button>
                <button className="text-gray-500 hover:text-white transition-colors">Currency</button>
                <button className="text-gray-500 hover:text-white transition-colors">Commodities</button>
             </div>

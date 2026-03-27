@@ -20,7 +20,6 @@ export default function SettingsPage() {
            <div className="w-full md:w-64 space-y-2 shrink-0">
              {[
                { icon: User, label: "Account Profile", active: true },
-               { icon: Shield, label: "Security & 2FA" },
                { icon: Bell, label: "Notifications" },
                { icon: KeyRound, label: "Broker API Keys" },
                { icon: MonitorSmartphone, label: "Terminal Appearance" }
